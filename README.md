@@ -1,7 +1,7 @@
 
 # *Pure CSS Carrousel Cards with image*
 
-[Ver Codigo | Demo](http://https://codepen.io/ShoniIsra/pen/MWOeZOw "Ver Codigo | Demo")
+[Ver Codigo | Demo](https://codepen.io/ShoniIsra/pen/MWOeZOw "Ver Codigo | Demo")
 
 
 [![image](https://raw.githubusercontent.com/shoniisrael/Pure-CSS-Carrousel-Cards-with-image/main/63ts2q.gif "image")](https://raw.githubusercontent.com/shoniisrael/Pure-CSS-Carrousel-Cards-with-image/main/63ts2q.gif "image")
