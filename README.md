@@ -1,5 +1,5 @@
 
-# *Pure-CSS-Carrousel-Cards-with-image*
+# *Pure CSS Carrousel Cards with image*
 
 [Ver Codigo | Demo](http://https://codepen.io/ShoniIsra/pen/MWOeZOw "Ver Codigo | Demo")
 
